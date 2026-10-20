@@ -4,7 +4,7 @@ Data Analyst focused on **ETL, revenue analytics and FP&A** — first data hire 
 
 - 🔧 Turning messy, multi-source transactional data into numbers leadership can trust, and explaining why a number moved
 - 💳 Fintech/payments · 📊 budget vs. actual and guidance tracking at a listed EdTech group · 🏭 manufacturing BI
-- 🌎 Florianópolis, Brazil (GMT-3), open to remote roles
+- 🌎 Florianópolis, Brazil (GMT-3), working remotely
 
 ---
 
